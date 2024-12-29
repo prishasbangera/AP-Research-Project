@@ -5,3 +5,5 @@ The field of quantum computing (QC), which manipulates quantum mechanical phenom
 
 - [Link: Live p5.js sketch](https://editor.p5js.org/emeraldblackbird/sketches/JFyzTBAZt)
 
+- [Old projects/versions that led to the final project](https://editor.p5js.org/emeraldblackbird/collections/Yu34_iAF6)
+
