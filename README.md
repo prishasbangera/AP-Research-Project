@@ -5,8 +5,19 @@ The field of quantum computing (QC), which manipulates quantum mechanical phenom
 
 - [Live p5.js sketch](https://editor.p5js.org/emeraldblackbird/sketches/JFyzTBAZt)
 
-- [Old projects/versions that led to the final project](https://editor.p5js.org/emeraldblackbird/collections/Yu34_iAF6)
+- [Old projects/versions that led to the final project](https://editor.p5js.org/emeraldblackbird/collections/Yu34_iAF6) (I have included some of these in the Previous Attempts Folder)
 
 - [Instagram Post](https://www.instagram.com/p/C6GhoLJOsSK/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) (When the background is not redrawn between successive frames: As the user rotates, zooms, and moves around the camera, the frames are drawn on top of each other. The artwork is then a result of the user interacting with the structure--this can be thought of as a metaphor for measurement, since the act of observing a qubit changes its state.)
 
+## Gallery
 
+- ![alt text](<Snapshots\swirly 3.png>)
+- ![alt text](<Snapshots\side view.png>)
+- ![alt text](<Snapshots\swirly 4.png>)
+- ![alt text](Snapshots\quasary.png)
+- ![alt text](<Snapshots\swirly 1.png>)
+- ![alt text](<Snapshots\first shell.png>)
+- ![alt text](<Snapshots\second shell.png>)
+- ![alt text](<Snapshots\see the height.png>)
+- ![alt text](<Snapshots\side view 2.png>)
+- ![alt text](<Snapshots\swirly 2.png>)
