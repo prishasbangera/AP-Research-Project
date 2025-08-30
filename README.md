@@ -11,13 +11,13 @@ The field of quantum computing (QC), which manipulates quantum mechanical phenom
 
 ## Gallery
 
-- ![alt text](<Snapshots\swirly 3.png>)
-- ![alt text](<Snapshots\side view.png>)
-- ![alt text](<Snapshots\swirly 4.png>)
-- ![alt text](Snapshots\quasary.png)
-- ![alt text](<Snapshots\swirly 1.png>)
-- ![alt text](<Snapshots\first shell.png>)
-- ![alt text](<Snapshots\second shell.png>)
-- ![alt text](<Snapshots\see the height.png>)
-- ![alt text](<Snapshots\side view 2.png>)
-- ![alt text](<Snapshots\swirly 2.png>)
+- ![alt text](<Snapshots/swirly 3.png>)
+- ![alt text](<Snapshots/side view.png>)
+- ![alt text](<Snapshots/swirly 4.png>)
+- ![alt text](Snapshots/quasary.png)
+- ![alt text](<Snapshots/swirly 1.png>)
+- ![alt text](<Snapshots/first shell.png>)
+- ![alt text](<Snapshots/second shell.png>)
+- ![alt text](<Snapshots/see the height.png>)
+- ![alt text](<Snapshots/side view 2.png>)
+- ![alt text](<Snapshots/swirly 2.png>)
