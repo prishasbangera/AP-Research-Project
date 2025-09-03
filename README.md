@@ -9,6 +9,8 @@ The field of quantum computing (QC), which manipulates quantum mechanical phenom
 
 - [Instagram Post](https://www.instagram.com/p/C6GhoLJOsSK/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) (When the background is not redrawn between successive frames: As the user rotates, zooms, and moves around the camera, the frames are drawn on top of each other. The artwork is then a result of the user interacting with the structure--this can be thought of as a metaphor for measurement, since the act of observing a qubit changes its state.)
 
+- [Paper](https://docs.google.com/document/d/1FZbJNsZu2rkNNh7U0R8js2TGvccKQRmq3eWv0AaPETc/edit?usp=sharing) (As a high school research paper, I am putting this here if anyone wants to take a look at my creative process. However, I am not claiming that this paper is a 100% solid quality research paper.)
+
 ## Gallery
 
 - ![alt text](<Snapshots/swirly 3.png>)
